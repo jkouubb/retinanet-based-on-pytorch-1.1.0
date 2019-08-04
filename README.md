@@ -13,4 +13,7 @@ Changes I have made are:
 I have not tested any big dataset for my code, because of my network speed and equipment.But based on the smal dataset I made by myself,it works.
 
 If there is something wrong,please let me know.I am just in my second year in college and I only studied it for 4 days.So there may have some points I did not understand well.
+
+The code only supports csv now. To run the code,just run main.py.But make sure you have put your data path into function run_the_net()
+
 At last,thanks for reading my poor english text. And good luck!:)
